@@ -193,7 +193,7 @@
             <img src="https://via.placeholder.com/160x200?text=Photo" alt="個人照">
         </div>
         <div class="name-tag">
-            <h2>你的姓名</h2>
+            <h2>徐紹崴</h2>
             <p>工業管理系 | NPUST</p>
         </div>
         
@@ -219,7 +219,7 @@
             <table class="data-table">
                 <tr>
                     <td class="td-label">姓名</td>
-                    <td>(填入你的中文姓名)</td>
+                    <td>(徐紹崴)</td>
                 </tr>
                 <tr>
                     <td class="td-label">學位</td>
@@ -255,7 +255,7 @@
                 </tr>
                 <tr>
                     <td>202X - 202X</td>
-                    <td><strong>(你的高中名稱)</strong><br>(你的科系) | 畢業</td>
+                    <td><strong>(關西高中)</strong><br>(資處) | 畢業</td>
                 </tr>
             </table>
         </section>
@@ -292,7 +292,7 @@
         </section>
 
         <footer style="text-align: center; font-size: 0.8rem; color: #aaa; margin-top: 100px;">
-            &copy; 2026 你的姓名 - 國立屏東科技大學工業管理系
+            &copy; 2026 徐紹崴 - 國立屏東科技大學工業管理系
         </footer>
     </main>
 
